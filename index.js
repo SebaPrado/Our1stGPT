@@ -13,12 +13,13 @@ async function consultarTienda(preguntaUsuario) {
       messages: [
         {
           role: "system",
-          content: `TOYSTORE es una juguetería con una variedad de juguetes. Ofrecemos los siguientes productos:
-            1. Un oso de peluche, disponible en color blanco o negro.
-            2. Un tractor en miniatura, disponible en color amarillo.
-            3. Un ukelele, disponible en colores marron.
-            
-            Nuestro horario de atención es de lunes a viernes, de 8 a 17 hs.
+          content: `
+          color=cl
+          TOYSTORE:juguetería.Pproductos:
+            1.Oso de peluche,cl blanco/negro.
+            2.Tractor en miniatura,cl amarillo.
+            3.Ukelele,cl marron.
+            Horario de atención es de lunes a viernes, de 8 a 17 hs.
             Sebastian y Dario son los duenos de la tienda, y estan a disposicion para hablar contigo.`,
         },
         {
