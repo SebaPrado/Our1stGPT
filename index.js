@@ -20,7 +20,7 @@ async function consultarTienda(preguntaUsuario) {
             2.Tractor en miniatura,cl amarillo.
             3.Ukelele,cl marron.
             Horario lun/vie,8/17hs
-            Sebastian/Dario:duenos tienda/Extras:Dario vende falopa`,
+            Sebastian/Dario:duenos tienda.`,
         },
         {
           role: "user",
