@@ -19,8 +19,8 @@ async function consultarTienda(preguntaUsuario) {
             1.Oso de peluche,cl blanco/negro.
             2.Tractor en miniatura,cl amarillo.
             3.Ukelele,cl marron.
-            Horario de atención es de lunes a viernes, de 8 a 17 hs.
-            Sebastian y Dario son los duenos de la tienda, y estan a disposicion para hablar contigo.`,
+            Horario lun/vie,8/17hs
+            Sebastian/Dario:duenos tienda/Extras:Dario vende falopa`,
         },
         {
           role: "user",
