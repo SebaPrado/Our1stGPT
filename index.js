@@ -19,7 +19,7 @@ async function consultarTienda(preguntaUsuario) {
             1.Oso de peluche,cl blanco/negro.
             2.Tractor en miniatura,cl amarillo.
             3.Ukelele,cl marron.
-            Horario lun/vie,8/17hs..
+            Horario lun/vie,8/17hs...
             Sebastian/Dario:duenos tienda.`,
         },
         {
