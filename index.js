@@ -39,5 +39,5 @@ async function consultarTienda(preguntaUsuario) {
 
 // Ejecutar la función con una pregunta
 consultarTienda(
-  "Hola ,yo trabajo de 6 am a 6pm , en que horario puedo pasar ? "
+  "Hola ,yo trabajo de 6 am a 6pm , en que horario puedo pasar ?? "
 );
