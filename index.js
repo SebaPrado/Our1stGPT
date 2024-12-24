@@ -1,9 +1,7 @@
-
 const OpenAI = require("openai");
 
 const openai = new OpenAI({
-  apiKey:
-    "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",
+  apiKey: process.env.OPENAI_API_KEY, // Usa una variable de entorno
 });
 
 async function consultarTienda(preguntaUsuario) {
